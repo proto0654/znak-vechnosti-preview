@@ -1,5 +1,5 @@
 export const bureau = {
-  name: 'Знак вечности', region: 'Крым', geography: 'Крым · Россия · зарубежье',
+  name: 'Знак вечности', descriptor: 'Ритуальный салон', region: 'Крым', geography: 'Крым · Россия · зарубежье',
   phone: '+7 (978) 000-00-00', tel: '+79780000000', email: 'info@example.com',
   address: 'Симферополь · адрес уточняется',
 };
